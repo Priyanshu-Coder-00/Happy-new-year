@@ -1,0 +1,40 @@
+h1{
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+    font-size: 80px;
+    background-color: aqua;
+}
+#img1{
+    height: 450px;
+}
+#img2{
+    width: 650px;
+    margin-left: 80px;
+}
+#img3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#img4{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+body{
+    background-image: url("background.avif");
+    background-attachment: fixed;
+}
+.me{
+    display: block;
+    margin-left: auto;
+    margin-bottom: auto;
+    width: 60%;
+    font-size: 20px;
+}
+.footer{
+    background-color: antiquewhite;
+}
